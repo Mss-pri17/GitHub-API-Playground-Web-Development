@@ -11,22 +11,22 @@ Seamless integration with the GitHub API, enabling users to list, display, and c
 Utilization of API authentication mechanisms to ensure secure access to user data.
 Implementation of asynchronous programming techniques (e.g., promises, async/await) for efficient API communication.
 
-<img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/dd17ead0-7741-4742-b658-8a787b495ad8" width="500" height="500">
-<img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/7d322ea5-628e-49c0-9ea7-2b5a5929fb75" width="500" height="500">
-
-✑ User-Friendly Interface
+✑ User-Friendly Interface: 
 Clean and intuitive user interface built with HTML, CSS, and JavaScript.
 Responsive design for optimal viewing experience across various devices.
 Effective data visualization and presentation of repository information.
 
-✑ Gamification Elements
+<img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/dd17ead0-7741-4742-b658-8a787b495ad8" width="500" height="500">
+<img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/7d322ea5-628e-49c0-9ea7-2b5a5929fb75" width="500" height="500">
+
+✑ Gamification Elements: 
 Incorporation of achievement badges to encourage user engagement and motivation.
 Interactive video tutorials to guide users through the application's features and functionalities.
 Gamified learning experience for exploring GitHub API functionalities.
 <img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/c990f3c0-0968-4b13-a7db-77a896f2c563" width="500" height="500">
 <img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/fae42012-48ed-4884-ac03-a7046025d1da" width="500" height="500">
 
-✑ Code Quality and Best Practices
+✑ Code Quality and Best Practices: 
 Adherence to coding standards and best practices for maintainable and scalable code.
 Modular and reusable code components for easy extensibility.
 Comprehensive documentation and comments for better understanding and collaboration.
