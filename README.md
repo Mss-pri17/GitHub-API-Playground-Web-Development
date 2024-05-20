@@ -23,6 +23,7 @@ Effective data visualization and presentation of repository information.
 Incorporation of achievement badges to encourage user engagement and motivation.
 Interactive video tutorials to guide users through the application's features and functionalities.
 Gamified learning experience for exploring GitHub API functionalities.
+
 <img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/c990f3c0-0968-4b13-a7db-77a896f2c563" width="300" height="300">
 <img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/fae42012-48ed-4884-ac03-a7046025d1da" width="300" height="300">
 
