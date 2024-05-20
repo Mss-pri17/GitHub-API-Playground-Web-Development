@@ -16,8 +16,8 @@ Clean and intuitive user interface built with HTML, CSS, and JavaScript.
 Responsive design for optimal viewing experience across various devices.
 Effective data visualization and presentation of repository information.
 
-<img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/dd17ead0-7741-4742-b658-8a787b495ad8" width="500" height="500">
-<img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/7d322ea5-628e-49c0-9ea7-2b5a5929fb75" width="500" height="500">
+<img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/dd17ead0-7741-4742-b658-8a787b495ad8" width="300" height="300">
+<img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/7d322ea5-628e-49c0-9ea7-2b5a5929fb75" width="300" height="300">
 
 ✑ Gamification Elements: 
 Incorporation of achievement badges to encourage user engagement and motivation.
