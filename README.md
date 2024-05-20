@@ -1,7 +1,9 @@
-#GitHub API Playground Overview
+# GitHub API Playground Overview
 ✑ The GitHub API Playground is a dynamic and interactive web application that harnesses the power of the GitHub API. 
-It provides a seamless and engaging experience for developers to explore and interact with their GitHub repositories. 
-This project showcases proficiency in front-end web development technologies, API integration, and user experience design.
+
+✑ It provides a seamless and engaging experience for developers to explore and interact with their GitHub repositories. 
+
+✑ This project showcases proficiency in front-end web development technologies, API integration, and user experience design.
 
 # Key Features
 ✑ GitHub API Integration
@@ -32,9 +34,6 @@ Open the index.html file in your preferred web browser.
 
 # Contributing
 Contributions to the GitHub API Playground are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-# License
-This project is licensed under the MIT License.
 
 # Acknowledgments
 The GitHub API documentation for providing comprehensive resources and guidance.
