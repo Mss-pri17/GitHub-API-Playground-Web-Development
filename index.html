@@ -1,0 +1,138 @@
+<!-- /**
+ * WEB222 – Assignment 06
+ *
+ * I declare that this assignment is my own work in accordance with
+ * Seneca Academic Policy. No part of this assignment has been
+ * copied manually or electronically from any other source
+ * (including web sites) or distributed to other students.
+ *
+ * Please update the following with your information:
+ *
+ *      Name:       <POTPOURRI FAJILAGOT>
+ *      Student ID: <122976236>
+ *      Date:       <04-12-24>+++++++++++++
+ */ -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub API Playground</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>GitHub API Playground</h1>
+      <div class="title">
+        <form class="search-form">
+          <!-- <p>This prompt will display GitHub User's photo, Name,@,bio,follower and following details:</p> -->
+          <input
+            type="text"
+            class="search-input"
+            placeholder="Enter a GitHub username"
+          />
+          <button type="submit" class="submit">Search</button>
+        </form>
+      </div>
+      <section class="user-info"></section>
+      <div class="api-key-container">
+        <h2>Interactive Demo using GitHub API Token</h2>
+        <p>
+          Steps to create a personal access token to authenticate with the
+          GitHub API for GitHub users:
+        </p>
+        <ol>
+          <li>
+            Go to GitHub account settings by clicking on your profile photo in
+            the top right and selecting "Settings"
+          </li>
+          <li>In the left sidebar, click on "Developer settings".</li>
+          <li>
+            Under "Personal access tokens", click on "Fine-grained tokens" or
+            "Personal access tokens (classic)"
+          </li>
+          <li>
+            Click "Generate new token" to create a new personal access token.
+          </li>
+          <h5>
+            NOTE: GitHub recommends using fine-grained personal access tokens
+            over the classic personal access tokens, as they provide more
+            security features.
+          </h5>
+        </ol>
+        <p>
+          To use the interactive demo, please enter your GitHub API token once:
+        </p>
+        <form class="api-key-form">
+          <input
+            type="text"
+            class="api-key-input"
+            placeholder="Enter your GitHub API token"
+          />
+          <button type="submit" class="submit">Save API Token</button>
+        </form>
+      </div>
+      <div class="interactive-demo">
+        <h2>Interactive Demo</h2>
+        <p>Try out the GitHub API functionality:</p>
+        <button class="demo-btn" data-action="list-repos">
+          Repositories List
+        </button>
+        <button class="demo-btn" data-action="display-repos">
+          Display Repository
+        </button>
+        <button class="demo-btn" data-action="create-repos">
+          Create Repository
+        </button>
+        <div class="demo-output"></div>
+      </div>
+
+      <div class="gamification">
+        <h2>GitHub API Achievement Board</h2>
+        <p>Interact with the GitHub API functionalities to earn trophies:</p>
+        <div class="badges">
+          <div class="badge">
+            <img
+              src="https://itotd.com/files/2018/06/trophy-1461775452C4L.jpg"
+              alt="Badge 1"
+            />
+            <p>List Repository</p>
+          </div>
+          <div class="badge">
+            <img
+              src="https://www.saxtonindustrial.com/wp-content/uploads/2PMX1A.jpg"
+              alt="Badge 2"
+            />
+            <p>Create Repository</p>
+          </div>
+          <div class="badge">
+            <img
+              src="https://itotd.com/files/2018/06/trophy-1461775452C4L.jpg"
+              alt="Badge 3"
+            />
+            <p>Display Repository</p>
+          </div>
+        </div>
+      </div>
+      <div class="video-tutorials">
+        <h2>Video Tutorial Regarding GitHub REST API</h2>
+        <h6></h6>
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/OvfLavRD1Os?si=G3Yh1A7k_SKUS1j8"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+    <footer>
+      Made by Potpourri P. Fajilagot 👩‍💻|| Student ID: 122976236 📧 || WEB222
+      Assignment 6 💻<br />
+    </footer>
+    <script src="./js/github.js"></script>
+  </body>
+</html>
