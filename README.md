@@ -28,6 +28,7 @@ Comprehensive documentation and comments for better understanding and collaborat
 
 # Getting Started
 To run the GitHub API Playground locally, follow these steps:
+
 ✑ Clone the repository: git clone https://github.com/your-username/github-api-playground.git
 
 ✑ Navigate to the project directory: cd github-api-playground
