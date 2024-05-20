@@ -7,6 +7,8 @@
 
 # Key Features
 ✑ GitHub API Integration
+![image](https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/dd17ead0-7741-4742-b658-8a787b495ad8)
+
 Seamless integration with the GitHub API, enabling users to list, display, and create repositories directly from the application.
 Utilization of API authentication mechanisms to ensure secure access to user data.
 Implementation of asynchronous programming techniques (e.g., promises, async/await) for efficient API communication.
