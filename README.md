@@ -10,7 +10,7 @@
 Seamless integration with the GitHub API, enabling users to list, display, and create repositories directly from the application.
 Utilization of API authentication mechanisms to ensure secure access to user data.
 Implementation of asynchronous programming techniques (e.g., promises, async/await) for efficient API communication.
-[image](https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/dd17ead0-7741-4742-b658-8a787b495ad8)
+<img src="https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/dd17ead0-7741-4742-b658-8a787b495ad8" width="300" height="200">
 
 ✑ User-Friendly Interface
 Clean and intuitive user interface built with HTML, CSS, and JavaScript.
@@ -23,6 +23,7 @@ Interactive video tutorials to guide users through the application's features an
 Gamified learning experience for exploring GitHub API functionalities.
 ![image](https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/c990f3c0-0968-4b13-a7db-77a896f2c563)
 ![image](https://github.com/Mss-pri17/GitHub-API-Playground-Web-Development/assets/151165406/fae42012-48ed-4884-ac03-a7046025d1da)
+<img src="image_url" width="50%" height="50%">
 
 
 ✑ Code Quality and Best Practices
